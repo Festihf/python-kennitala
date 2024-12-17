@@ -1,3 +1,13 @@
+# Why do we have this repo at Festi?
+
+This is just a minor supply-chain security / robustness issue, since we're using this
+package in festi-ecommerce-n1.
+
+If the maintainer would suddenly decide to delete the github repo, or change its license,
+or make breaking changes, or make malignant changes, then it won't affect us.
+
+So please ignore, but don't delete.
+
 python-kennitala
 ================
 
